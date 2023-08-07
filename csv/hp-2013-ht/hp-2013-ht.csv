@@ -1,0 +1,431 @@
+prov_title,quiz_name,question_count,question_text,question_img,choise_header,choise_text,choise_img,correct_answer,questiondescription_img,questiondescription_txt
+"Högskoleprovet HT 2013","kvantitativ 1",1,"Vad är \[1 + \frac{1}{2} \cdot \frac{1}{3}\]","","A","3/6","","True","",""
+"Högskoleprovet HT 2013","kvantitativ 1",1,"Vad är \[1 + \frac{1}{2} \cdot \frac{1}{3}\]","","B","7/6","","False","",""
+"Högskoleprovet HT 2013","kvantitativ 1",1,"Vad är \[1 + \frac{1}{2} \cdot \frac{1}{3}\]","","C","6/5","","False","",""
+"Högskoleprovet HT 2013","kvantitativ 1",1,"Vad är \[1 + \frac{1}{2} \cdot \frac{1}{3}\]","","D","7/5","","False","",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",2,"Maria kan köra 350 km på 19 liter bensin. Vilket samband visar hur många liter bensin (L) Marias bil förbrukar på 1 710 km?","","A","\[\frac{19}{350} = \frac{L}{1710}\]","","True","",""
+"Högskoleprovet HT 2013","kvantitativ 1",2,"Maria kan köra 350 km på 19 liter bensin. Vilket samband visar hur många liter bensin (L) Marias bil förbrukar på 1 710 km?","","B","\[\frac{19}{L} = \frac{1710}{350}\]","","False","",""
+"Högskoleprovet HT 2013","kvantitativ 1",2,"Maria kan köra 350 km på 19 liter bensin. Vilket samband visar hur många liter bensin (L) Marias bil förbrukar på 1 710 km?","","C","\[\frac{L}{350} = \frac{1710}{19}\]","","False","",""
+"Högskoleprovet HT 2013","kvantitativ 1",2,"Maria kan köra 350 km på 19 liter bensin. Vilket samband visar hur många liter bensin (L) Marias bil förbrukar på 1 710 km?","","D","\[\frac{19}{350} = \frac{1710}{L}\]","","False","",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",3,"a, b och c är tre positiva heltal så att \[a \cdot b = 22 \: och \: b \cdot c = 26\]. Vilket svarsalternativ är ett möjligt värde för a + b + c","","A","22","","True","",""
+"Högskoleprovet HT 2013","kvantitativ 1",3,"a, b och c är tre positiva heltal så att \[a \cdot b = 22 \: och \: b \cdot c = 26\]. Vilket svarsalternativ är ett möjligt värde för a + b + c","","B","24","","False","",""
+"Högskoleprovet HT 2013","kvantitativ 1",3,"a, b och c är tre positiva heltal så att \[a \cdot b = 22 \: och \: b \cdot c = 26\]. Vilket svarsalternativ är ett möjligt värde för a + b + c","","C","26","","False","",""
+"Högskoleprovet HT 2013","kvantitativ 1",3,"a, b och c är tre positiva heltal så att \[a \cdot b = 22 \: och \: b \cdot c = 26\]. Vilket svarsalternativ är ett möjligt värde för a + b + c","","D","48","","False","",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",4,"Vad gäller för x och y om 6 procent av x är lika med 5 procent av y, där både x och y är större än noll?","","A","x > y","","True","",""
+"Högskoleprovet HT 2013","kvantitativ 1",4,"Vad gäller för x och y om 6 procent av x är lika med 5 procent av y, där både x och y är större än noll?","","B","x < y","","False","",""
+"Högskoleprovet HT 2013","kvantitativ 1",4,"Vad gäller för x och y om 6 procent av x är lika med 5 procent av y, där både x och y är större än noll?","","C","x = y","","False","",""
+"Högskoleprovet HT 2013","kvantitativ 1",4,"Vad gäller för x och y om 6 procent av x är lika med 5 procent av y, där både x och y är större än noll?","","D","5x = 6y","","False","",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",5,"Vad är \[1 + \frac{x \cdot 3 \cdot 9}{100 \cdot 12} \]","","A","1 200","","True","",""
+"Högskoleprovet HT 2013","kvantitativ 1",5,"Vad är \[1 + \frac{x \cdot 3 \cdot 9}{100 \cdot 12} \]","","B","2 700","","False","",""
+"Högskoleprovet HT 2013","kvantitativ 1",5,"Vad är \[1 + \frac{x \cdot 3 \cdot 9}{100 \cdot 12} \]","","C","3 600","","False","",""
+"Högskoleprovet HT 2013","kvantitativ 1",5,"Vad är \[1 + \frac{x \cdot 3 \cdot 9}{100 \cdot 12} \]","","D","97 200","","False","",""
+
+
+"Högskoleprovet HT 2013","kvantitativ 1",6,"ABCD är en kvadrat med sidan 10 cm. Cirkelbågen AC utgör en fjärdedel av en cirkel med medelpunkten i D. Vad är arean av det skuggade området som begränsas av diagonalen AC och cirkelbågen AC?","images/2013-ht/kvant-1-fråga-6.png","A","\[(25\pi - 25) \, \text{cm}^2\]","","True","",""
+"Högskoleprovet HT 2013","kvantitativ 1",6,"ABCD är en kvadrat med sidan 10 cm. Cirkelbågen AC utgör en fjärdedel av en cirkel med medelpunkten i D. Vad är arean av det skuggade området som begränsas av diagonalen AC och cirkelbågen AC?","images/2013-ht/kvant-1-fråga-6.png","B","\[(25\pi - 50) \, \text{cm}^2\]","","False","",""
+"Högskoleprovet HT 2013","kvantitativ 1",6,"ABCD är en kvadrat med sidan 10 cm. Cirkelbågen AC utgör en fjärdedel av en cirkel med medelpunkten i D. Vad är arean av det skuggade området som begränsas av diagonalen AC och cirkelbågen AC?","images/2013-ht/kvant-1-fråga-6.png","B","\[(50\pi - 50) \, \text{cm}^2\]","","False","",""
+"Högskoleprovet HT 2013","kvantitativ 1",6,"ABCD är en kvadrat med sidan 10 cm. Cirkelbågen AC utgör en fjärdedel av en cirkel med medelpunkten i D. Vad är arean av det skuggade området som begränsas av diagonalen AC och cirkelbågen AC?","images/2013-ht/kvant-1-fråga-6.png","B","\[(50\pi - 100) \, \text{cm}^2\]","","False","",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",7,"Hur många primtal finns det mellan 40 och 50","","A","2","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",7,"Hur många primtal finns det mellan 40 och 50","","B","3","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",7,"Hur många primtal finns det mellan 40 och 50","","C","4","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",7,"Hur många primtal finns det mellan 40 och 50","","D","5","","False",""
+
+
+"Högskoleprovet HT 2013","kvantitativ 1",8,"En låda i form av ett rätblock har volymen \[12 \, \text{dm}^3\]. Vilken volym får lådan om längden av alla kanter halveras?","","A","\[1,5 \, \text{dm}^3\]","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",8,"En låda i form av ett rätblock har volymen \[12 \, \text{dm}^3\]. Vilken volym får lådan om längden av alla kanter halveras?","","B","\[2 \, \text{dm}^3\]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",8,"En låda i form av ett rätblock har volymen \[12 \, \text{dm}^3\]. Vilken volym får lådan om längden av alla kanter halveras?","","C","\[3 \, \text{dm}^3\]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",8,"En låda i form av ett rätblock har volymen \[12 \, \text{dm}^3\]. Vilken volym får lådan om längden av alla kanter halveras?","","D","\[6 \, \text{dm}^3\]","","False",""
+
+
+"Högskoleprovet HT 2013","kvantitativ 1",9,"Vad är medelvärdet av 7/8 och -3/4?","","A","1/16","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",9,"Vad är medelvärdet av 7/8 och -3/4?","","B","1/8","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",9,"Vad är medelvärdet av 7/8 och -3/4?","","C","1/4","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",9,"Vad är medelvärdet av 7/8 och -3/4?","","D","1/2","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",10,"Vad är \[\frac{1 - x}{xy}\text{ om } xy \neq 0\]","","A","\[\frac{1}{x} - \frac{1}{xy}\]","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",10,"Vad är \[\frac{1 - x}{xy}\text{ om } xy \neq 0\]","","B","\[\frac{1}{y} - \frac{1}{xy}\]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",10,"Vad är \[\frac{1 - x}{xy}\text{ om } xy \neq 0\]","","C","\[\frac{1}{xy} - \frac{1}{x}\]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",10,"Vad är \[\frac{1 - x}{xy}\text{ om } xy \neq 0\]","","D","\[\frac{1}{xy} - \frac{1}{y}\]","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",11,"I en låda finns det 3 gånger så många äpplen som päron och 9 gånger så många päron som bananer. Om x är antalet äpplen, vilket uttryck motsvarar då det totala antalet frukter i lådan?","","A","13x","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",11,"I en låda finns det 3 gånger så många äpplen som päron och 9 gånger så många päron som bananer. Om x är antalet äpplen, vilket uttryck motsvarar då det totala antalet frukter i lådan?","","B","31x","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",11,"I en låda finns det 3 gånger så många äpplen som päron och 9 gånger så många päron som bananer. Om x är antalet äpplen, vilket uttryck motsvarar då det totala antalet frukter i lådan?","","C","\[\frac{13}{3}x\]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",11,"I en låda finns det 3 gånger så många äpplen som päron och 9 gånger så många päron som bananer. Om x är antalet äpplen, vilket uttryck motsvarar då det totala antalet frukter i lådan?","","D","\[\frac{37}{27}x\]","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",12,"En undersökning på en arbetsplats visade att 47 % av de anställda kunde tyska och 43 % kunde franska, medan 40 % varken kunde tyska eller franska. Hur stor andel av de anställda kunde både tyska och franska?","","A","10%","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",12,"En undersökning på en arbetsplats visade att 47 % av de anställda kunde tyska och 43 % kunde franska, medan 40 % varken kunde tyska eller franska. Hur stor andel av de anställda kunde både tyska och franska?","","B","20%","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",12,"En undersökning på en arbetsplats visade att 47 % av de anställda kunde tyska och 43 % kunde franska, medan 40 % varken kunde tyska eller franska. Hur stor andel av de anställda kunde både tyska och franska?","","C","30%","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",12,"En undersökning på en arbetsplats visade att 47 % av de anställda kunde tyska och 43 % kunde franska, medan 40 % varken kunde tyska eller franska. Hur stor andel av de anställda kunde både tyska och franska?","","D","50%","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",13,"Kvantitativa Jämförelser","images/2013-ht/kvant-1-fråga-13.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",13,"Kvantitativa Jämförelser","images/2013-ht/kvant-1-fråga-13.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",13,"Kvantitativa Jämförelser","images/2013-ht/kvant-1-fråga-13.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",13,"Kvantitativa Jämförelser","images/2013-ht/kvant-1-fråga-13.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",14,"x procent av y är lika med z procent av w.","images/2013-ht/kvant-1-fråga-14.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",14,"x procent av y är lika med z procent av w.","images/2013-ht/kvant-1-fråga-14.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",14,"x procent av y är lika med z procent av w.","images/2013-ht/kvant-1-fråga-14.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",14,"x procent av y är lika med z procent av w.","images/2013-ht/kvant-1-fråga-14.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",15,"Kvadraten ABCD är inritad i en cirkel. Punkten D är cirkelns medelpunkt. Punkterna B och P ligger på cirkeln.","images/2013-ht/kvant-1-fråga-15.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",15,"Kvadraten ABCD är inritad i en cirkel. Punkten D är cirkelns medelpunkt. Punkterna B och P ligger på cirkeln.","images/2013-ht/kvant-1-fråga-15.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",15,"Kvadraten ABCD är inritad i en cirkel. Punkten D är cirkelns medelpunkt. Punkterna B och P ligger på cirkeln.","images/2013-ht/kvant-1-fråga-15.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",15,"Kvadraten ABCD är inritad i en cirkel. Punkten D är cirkelns medelpunkt. Punkterna B och P ligger på cirkeln.","images/2013-ht/kvant-1-fråga-15.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",16,"x = -y","images/2013-ht/kvant-1-fråga-16.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",16,"x = -y","images/2013-ht/kvant-1-fråga-16.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",16,"x = -y","images/2013-ht/kvant-1-fråga-16.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",16,"x = -y","images/2013-ht/kvant-1-fråga-16.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",17,"Kvantitativ jämförelse graf","images/2013-ht/kvant-1-fråga-17.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",17,"Kvantitativ jämförelse graf","images/2013-ht/kvant-1-fråga-17.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",17,"Kvantitativ jämförelse graf","images/2013-ht/kvant-1-fråga-17.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",17,"Kvantitativ jämförelse graf","images/2013-ht/kvant-1-fråga-17.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",18,"Kvantitativ jämförelse potens","images/2013-ht/kvant-1-fråga-18.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",18,"Kvantitativ jämförelse potens","images/2013-ht/kvant-1-fråga-18.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",18,"Kvantitativ jämförelse potens","images/2013-ht/kvant-1-fråga-18.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",18,"Kvantitativ jämförelse potens","images/2013-ht/kvant-1-fråga-18.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",19,"Kvantitativ jämförelse geometri","images/2013-ht/kvant-1-fråga-19.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",19,"Kvantitativ jämförelse geometri","images/2013-ht/kvant-1-fråga-19.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",19,"Kvantitativ jämförelse geometri","images/2013-ht/kvant-1-fråga-19.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",19,"Kvantitativ jämförelse geometri","images/2013-ht/kvant-1-fråga-19.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",20,"Summan av n positiva tal är lika med summan av m positiva tal.","images/2013-ht/kvant-1-fråga-20.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",20,"Summan av n positiva tal är lika med summan av m positiva tal.","images/2013-ht/kvant-1-fråga-20.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",20,"Summan av n positiva tal är lika med summan av m positiva tal.","images/2013-ht/kvant-1-fråga-20.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",20,"Summan av n positiva tal är lika med summan av m positiva tal.","images/2013-ht/kvant-1-fråga-20.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",21,"a, b, c, d och e är fem på varandra följande heltal sådana att a < b < c < d < e och a = –2d.","images/2013-ht/kvant-1-fråga-21.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",21,"a, b, c, d och e är fem på varandra följande heltal sådana att a < b < c < d < e och a = –2d.","images/2013-ht/kvant-1-fråga-21.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",21,"a, b, c, d och e är fem på varandra följande heltal sådana att a < b < c < d < e och a = –2d.","images/2013-ht/kvant-1-fråga-21.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",21,"a, b, c, d och e är fem på varandra följande heltal sådana att a < b < c < d < e och a = –2d.","images/2013-ht/kvant-1-fråga-21.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",22,"x(1 – x) > 0","images/2013-ht/kvant-1-fråga-22.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",22,"x(1 – x) > 0","images/2013-ht/kvant-1-fråga-22.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",22,"x(1 – x) > 0","images/2013-ht/kvant-1-fråga-22.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",22,"x(1 – x) > 0","images/2013-ht/kvant-1-fråga-22.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",23,"På en buss finns det 8 män och 14 kvinnor. Hur många av personerna på bussen har hatt?","images/2013-ht/kvant-1-fråga-23.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",23,"På en buss finns det 8 män och 14 kvinnor. Hur många av personerna på bussen har hatt?","images/2013-ht/kvant-1-fråga-23.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",23,"På en buss finns det 8 män och 14 kvinnor. Hur många av personerna på bussen har hatt?","images/2013-ht/kvant-1-fråga-23.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",23,"På en buss finns det 8 män och 14 kvinnor. Hur många av personerna på bussen har hatt?","images/2013-ht/kvant-1-fråga-23.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",23,"På en buss finns det 8 män och 14 kvinnor. Hur många av personerna på bussen har hatt?","images/2013-ht/kvant-1-fråga-23.png","E","ej genom de båda påståendena","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",24,"I en ladugård finns enbart grisar, höns och får. Hur många djur finns i ladugården?","images/2013-ht/kvant-1-fråga-24.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",24,"I en ladugård finns enbart grisar, höns och får. Hur många djur finns i ladugården?","images/2013-ht/kvant-1-fråga-24.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",24,"I en ladugård finns enbart grisar, höns och får. Hur många djur finns i ladugården?","images/2013-ht/kvant-1-fråga-24.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",24,"I en ladugård finns enbart grisar, höns och får. Hur många djur finns i ladugården?","images/2013-ht/kvant-1-fråga-24.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",24,"I en ladugård finns enbart grisar, höns och får. Hur många djur finns i ladugården?","images/2013-ht/kvant-1-fråga-24.png","E","ej genom de båda påståendena","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",25,"Vinkeln d är yttervinkel till vinkeln c i triangeln ABC. Hur stor är yttervinkeln d?","images/2013-ht/kvant-1-fråga-25.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",25,"Vinkeln d är yttervinkel till vinkeln c i triangeln ABC. Hur stor är yttervinkeln d?","images/2013-ht/kvant-1-fråga-25.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",25,"Vinkeln d är yttervinkel till vinkeln c i triangeln ABC. Hur stor är yttervinkeln d?","images/2013-ht/kvant-1-fråga-25.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",25,"Vinkeln d är yttervinkel till vinkeln c i triangeln ABC. Hur stor är yttervinkeln d?","images/2013-ht/kvant-1-fråga-25.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",25,"Vinkeln d är yttervinkel till vinkeln c i triangeln ABC. Hur stor är yttervinkeln d?","images/2013-ht/kvant-1-fråga-25.png","E","ej genom de båda påståendena","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",26,"Anna och Karin fyller båda år den 4 juli. Hur gammal var Karin den 4 juli 2001?","images/2013-ht/kvant-1-fråga-26.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",26,"Anna och Karin fyller båda år den 4 juli. Hur gammal var Karin den 4 juli 2001?","images/2013-ht/kvant-1-fråga-26.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",26,"Anna och Karin fyller båda år den 4 juli. Hur gammal var Karin den 4 juli 2001?","images/2013-ht/kvant-1-fråga-26.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",26,"Anna och Karin fyller båda år den 4 juli. Hur gammal var Karin den 4 juli 2001?","images/2013-ht/kvant-1-fråga-26.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",26,"Anna och Karin fyller båda år den 4 juli. Hur gammal var Karin den 4 juli 2001?","images/2013-ht/kvant-1-fråga-26.png","E","ej genom de båda påståendena","","False",""
+
+
+"Högskoleprovet HT 2013","kvantitativ 1",27,"En röd och en grön bil startade från samma punkt och körde i motsatta riktningar under 2 timmar. De hade då tillsammans kört 234 km. Vilken var respektive bils medelhastighet?","images/2013-ht/kvant-1-fråga-27.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",27,"En röd och en grön bil startade från samma punkt och körde i motsatta riktningar under 2 timmar. De hade då tillsammans kört 234 km. Vilken var respektive bils medelhastighet?","images/2013-ht/kvant-1-fråga-27.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",27,"En röd och en grön bil startade från samma punkt och körde i motsatta riktningar under 2 timmar. De hade då tillsammans kört 234 km. Vilken var respektive bils medelhastighet?","images/2013-ht/kvant-1-fråga-27.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",27,"En röd och en grön bil startade från samma punkt och körde i motsatta riktningar under 2 timmar. De hade då tillsammans kört 234 km. Vilken var respektive bils medelhastighet?","images/2013-ht/kvant-1-fråga-27.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",27,"En röd och en grön bil startade från samma punkt och körde i motsatta riktningar under 2 timmar. De hade då tillsammans kört 234 km. Vilken var respektive bils medelhastighet?","images/2013-ht/kvant-1-fråga-27.png","E","ej genom de båda påståendena","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",28,"På en marknad står tre marknadsstånd på rad som säljer var sin produkt. Produkterna är tröjor, strumpor och byxor. En av dessa produkter är enbart svart, en är enbart vit och en är enbart blå. Det mittersta marknadsståndet säljer tröjor. Vilken färg har strumporna som säljs?","images/2013-ht/kvant-1-fråga-28.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2013","kvantitativ 1",28,"På en marknad står tre marknadsstånd på rad som säljer var sin produkt. Produkterna är tröjor, strumpor och byxor. En av dessa produkter är enbart svart, en är enbart vit och en är enbart blå. Det mittersta marknadsståndet säljer tröjor. Vilken färg har strumporna som säljs?","images/2013-ht/kvant-1-fråga-28.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",28,"På en marknad står tre marknadsstånd på rad som säljer var sin produkt. Produkterna är tröjor, strumpor och byxor. En av dessa produkter är enbart svart, en är enbart vit och en är enbart blå. Det mittersta marknadsståndet säljer tröjor. Vilken färg har strumporna som säljs?","images/2013-ht/kvant-1-fråga-28.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",28,"På en marknad står tre marknadsstånd på rad som säljer var sin produkt. Produkterna är tröjor, strumpor och byxor. En av dessa produkter är enbart svart, en är enbart vit och en är enbart blå. Det mittersta marknadsståndet säljer tröjor. Vilken färg har strumporna som säljs?","images/2013-ht/kvant-1-fråga-28.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2013","kvantitativ 1",28,"På en marknad står tre marknadsstånd på rad som säljer var sin produkt. Produkterna är tröjor, strumpor och byxor. En av dessa produkter är enbart svart, en är enbart vit och en är enbart blå. Det mittersta marknadsståndet säljer tröjor. Vilken färg har strumporna som säljs?","images/2013-ht/kvant-1-fråga-28.png","E","ej genom de båda påståendena","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 1",29,"För vilken överträdelse gällde att den stod för 5 procent av de fattade besluten om miljösanktionsavgifter 2003 och 10 procent av det totala beloppet för miljösanktionsavgifter samma år?","","A","Tillstånd/anmälan","","True","images/2013-ht/kvant-1-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 1",29,"För vilken överträdelse gällde att den stod för 5 procent av de fattade besluten om miljösanktionsavgifter 2003 och 10 procent av det totala beloppet för miljösanktionsavgifter samma år?","","B","Miljörapport","","False","images/2013-ht/kvant-1-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 1",29,"För vilken överträdelse gällde att den stod för 5 procent av de fattade besluten om miljösanktionsavgifter 2003 och 10 procent av det totala beloppet för miljösanktionsavgifter samma år?","","C","Kompletterande uppgift","","False","images/2013-ht/kvant-1-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 1",29,"För vilken överträdelse gällde att den stod för 5 procent av de fattade besluten om miljösanktionsavgifter 2003 och 10 procent av det totala beloppet för miljösanktionsavgifter samma år?","","D","Övrigt","","False","images/2013-ht/kvant-1-29-till-31.png"
+
+"Högskoleprovet HT 2013","kvantitativ 1",30," Hur stort var det genomsnittliga beloppet per beslutad miljösanktionsavgift år 2004?","","A","7 400 kronor","","True","images/2013-ht/kvant-1-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 1",30," Hur stort var det genomsnittliga beloppet per beslutad miljösanktionsavgift år 2004?","","B","8 600 kronor","","False","images/2013-ht/kvant-1-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 1",30," Hur stort var det genomsnittliga beloppet per beslutad miljösanktionsavgift år 2004?","","C","10 600 kronor","","False","images/2013-ht/kvant-1-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 1",30," Hur stort var det genomsnittliga beloppet per beslutad miljösanktionsavgift år 2004?","","D","160 000 kronor","","False","images/2013-ht/kvant-1-29-till-31.png"
+
+"Högskoleprovet HT 2013","kvantitativ 1",31," Anta att antalet beslut om miljösanktionsavgifter hade samma procentuella fördelning på tillsynsmyndigheter år 2002 som 2004. \[ \textbf{Hur många beslut fattades i så fall av kommuner 2002?} \]","","A","862","","True","images/2013-ht/kvant-1-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 1",31," Anta att antalet beslut om miljösanktionsavgifter hade samma procentuella fördelning på tillsynsmyndigheter år 2002 som 2004. \[ \textbf{Hur många beslut fattades i så fall av kommuner 2002?} \]","","B","1 014","","False","images/2013-ht/kvant-1-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 1",31," Anta att antalet beslut om miljösanktionsavgifter hade samma procentuella fördelning på tillsynsmyndigheter år 2002 som 2004. \[ \textbf{Hur många beslut fattades i så fall av kommuner 2002?} \]","","C","1 085","","False","images/2013-ht/kvant-1-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 1",31," Anta att antalet beslut om miljösanktionsavgifter hade samma procentuella fördelning på tillsynsmyndigheter år 2002 som 2004. \[ \textbf{Hur många beslut fattades i så fall av kommuner 2002?} \]","","D","1 276","","False","images/2013-ht/kvant-1-29-till-31.png"
+
+
+"Högskoleprovet HT 2013","kvantitativ 1",32," Hur stor andel av de tjänstgörande gymnasielärarna i ämnet media hade pedagogisk högskoleexamen?","","A","30 procent","","True","images/2013-ht/kvant-1-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 1",32," Hur stor andel av de tjänstgörande gymnasielärarna i ämnet media hade pedagogisk högskoleexamen?","","B","40 procent","","False","images/2013-ht/kvant-1-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 1",32," Hur stor andel av de tjänstgörande gymnasielärarna i ämnet media hade pedagogisk högskoleexamen?","","C","55 procent","","False","images/2013-ht/kvant-1-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 1",32," Hur stor andel av de tjänstgörande gymnasielärarna i ämnet media hade pedagogisk högskoleexamen?","","D","65 procent","","False","images/2013-ht/kvant-1-32-till-34.png"
+
+"Högskoleprovet HT 2013","kvantitativ 1",33," Studera de tjänstgörande lärarna i grundskolan. \[ \textbf{I vilken lärarkategori var skillnaden mellan andelen män och andelen kvinnor minst respektive störst?} \]","","A","Matematik/NO-ämnen, år 4–9 respektive Textilslöjd","","True","images/2013-ht/kvant-1-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 1",33," Studera de tjänstgörande lärarna i grundskolan. \[ \textbf{I vilken lärarkategori var skillnaden mellan andelen män och andelen kvinnor minst respektive störst?} \]","","B","Idrott och hälsa respektive Lågstadielärare","","False","images/2013-ht/kvant-1-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 1",33," Studera de tjänstgörande lärarna i grundskolan. \[ \textbf{I vilken lärarkategori var skillnaden mellan andelen män och andelen kvinnor minst respektive störst?} \]","","C","Idrott och hälsa respektive Hem- och konsumentkunskap","","False","images/2013-ht/kvant-1-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 1",33," Studera de tjänstgörande lärarna i grundskolan. \[ \textbf{I vilken lärarkategori var skillnaden mellan andelen män och andelen kvinnor minst respektive störst?} \]","","D","Musik respektive Svenska som andraspråk","","False","images/2013-ht/kvant-1-32-till-34.png"
+
+"Högskoleprovet HT 2013","kvantitativ 1",34," Vilket svarsförslag är korrekt avseende det totala antalet tjänstgörande lärare (inklusive helt tjänstlediga) inom olika lärarkategorier i gymnasieskolan?","","A","Det fanns 213 fler lärare inom el-/teletekniska ämnen än inom bygg-/anläggningstekniska ämnen.","","True","images/2013-ht/kvant-1-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 1",34," Vilket svarsförslag är korrekt avseende det totala antalet tjänstgörande lärare (inklusive helt tjänstlediga) inom olika lärarkategorier i gymnasieskolan?","","B","Det fanns 188 fler lärare inom naturbruksämnen än inom handels-/kontorsämnen.","","False","images/2013-ht/kvant-1-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 1",34," Vilket svarsförslag är korrekt avseende det totala antalet tjänstgörande lärare (inklusive helt tjänstlediga) inom olika lärarkategorier i gymnasieskolan?","","C","Det fanns 47 färre lärare inom drift-/underhållstekniska ämnen än inom processtekniska ämnen.","","False","images/2013-ht/kvant-1-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 1",34," Vilket svarsförslag är korrekt avseende det totala antalet tjänstgörande lärare (inklusive helt tjänstlediga) inom olika lärarkategorier i gymnasieskolan?","","D","Det fanns 218 färre lärare inom verkstads-/industritekniska ämnen än inom hantverksämnen.","","False","images/2013-ht/kvant-1-32-till-34.png"
+
+
+"Högskoleprovet HT 2013","kvantitativ 1",35," För hur många av lokalerna gällde att asklager VI låg djupare än 1 meter under markytan?","","A","4","","True","images/2013-ht/kvant-1-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 1",35," För hur många av lokalerna gällde att asklager VI låg djupare än 1 meter under markytan?","","B","5","","False","images/2013-ht/kvant-1-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 1",35," För hur många av lokalerna gällde att asklager VI låg djupare än 1 meter under markytan?","","C","6","","False","images/2013-ht/kvant-1-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 1",35," För hur många av lokalerna gällde att asklager VI låg djupare än 1 meter under markytan?","","D","7","","False","images/2013-ht/kvant-1-35-till-37.png"
+
+"Högskoleprovet HT 2013","kvantitativ 1",36," \[ \textbf{Vilket asklager avses?} \]  I markprofilen från Hagi återfanns asklagret ytligare än 50 cm under markytan och i markprofilen från Skarfanestorfa djupare än 80 cm under markytan.","","A"," IV","","True","images/2013-ht/kvant-1-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 1",36," \[ \textbf{Vilket asklager avses?} \]  I markprofilen från Hagi återfanns asklagret ytligare än 50 cm under markytan och i markprofilen från Skarfanestorfa djupare än 80 cm under markytan.","","B"," V","","False","images/2013-ht/kvant-1-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 1",36," \[ \textbf{Vilket asklager avses?} \]  I markprofilen från Hagi återfanns asklagret ytligare än 50 cm under markytan och i markprofilen från Skarfanestorfa djupare än 80 cm under markytan.","","C"," VI","","False","images/2013-ht/kvant-1-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 1",36," \[ \textbf{Vilket asklager avses?} \]  I markprofilen från Hagi återfanns asklagret ytligare än 50 cm under markytan och i markprofilen från Skarfanestorfa djupare än 80 cm under markytan.","","D"," VII","","False","images/2013-ht/kvant-1-35-till-37.png"
+
+"Högskoleprovet HT 2013","kvantitativ 1",37," Identifiera den markprofil där asklager VII låg som djupast respektive som ytligast under markytan. \[ \textbf{Hur stor var skillnaden mellan de båda djupen?} \]","","A","0,9 meter","","True","images/2013-ht/kvant-1-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 1",37," Identifiera den markprofil där asklager VII låg som djupast respektive som ytligast under markytan. \[ \textbf{Hur stor var skillnaden mellan de båda djupen?} \]","","B","1,5 meter","","False","images/2013-ht/kvant-1-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 1",37," Identifiera den markprofil där asklager VII låg som djupast respektive som ytligast under markytan. \[ \textbf{Hur stor var skillnaden mellan de båda djupen?} \]","","C","1,9 meter","","False","images/2013-ht/kvant-1-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 1",37," Identifiera den markprofil där asklager VII låg som djupast respektive som ytligast under markytan. \[ \textbf{Hur stor var skillnaden mellan de båda djupen?} \]","","D","2,5 meter","","False","images/2013-ht/kvant-1-35-till-37.png"
+
+"Högskoleprovet HT 2013","kvantitativ 1",38," Identifiera det år då det sammanlagda antalet snatterier, stölder och beräknade ransoneringsbrott var som störst i Sverige. \[ \textbf{Hur många brott rörde det sig om? } \]","","A","13 800","","True","images/2013-ht/kvant-1-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 1",38," Identifiera det år då det sammanlagda antalet snatterier, stölder och beräknade ransoneringsbrott var som störst i Sverige. \[ \textbf{Hur många brott rörde det sig om? } \]","","B","15 200","","False","images/2013-ht/kvant-1-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 1",38," Identifiera det år då det sammanlagda antalet snatterier, stölder och beräknade ransoneringsbrott var som störst i Sverige. \[ \textbf{Hur många brott rörde det sig om? } \]","","C","17 400","","False","images/2013-ht/kvant-1-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 1",38," Identifiera det år då det sammanlagda antalet snatterier, stölder och beräknade ransoneringsbrott var som störst i Sverige. \[ \textbf{Hur många brott rörde det sig om? } \]","","D","19 200","","False","images/2013-ht/kvant-1-38-till-40.png"
+
+"Högskoleprovet HT 2013","kvantitativ 1",39," Hur stor var den största procentuella ökningen av det beräknade antalet ransoneringsbrott mellan två på varandra följande år?","","A","70 procent","","True","images/2013-ht/kvant-1-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 1",39," Hur stor var den största procentuella ökningen av det beräknade antalet ransoneringsbrott mellan två på varandra följande år?","","B","110 procent","","False","images/2013-ht/kvant-1-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 1",39," Hur stor var den största procentuella ökningen av det beräknade antalet ransoneringsbrott mellan två på varandra följande år?","","C","210 procent","","False","images/2013-ht/kvant-1-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 1",39," Hur stor var den största procentuella ökningen av det beräknade antalet ransoneringsbrott mellan två på varandra följande år?","","D","320 procent","","False","images/2013-ht/kvant-1-38-till-40.png"
+
+"Högskoleprovet HT 2013","kvantitativ 1",40," Hur mycket mer kött/fläsk fick en person köpa per vecka tredje kvartalet 1947 jämfört med andra kvartalet 1942?","","A","70 gram/vecka och person","","True","images/2013-ht/kvant-1-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 1",40," Hur mycket mer kött/fläsk fick en person köpa per vecka tredje kvartalet 1947 jämfört med andra kvartalet 1942?","","B","180 gram/vecka och person","","False","images/2013-ht/kvant-1-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 1",40," Hur mycket mer kött/fläsk fick en person köpa per vecka tredje kvartalet 1947 jämfört med andra kvartalet 1942?","","C","260 gram/vecka och person","","False","images/2013-ht/kvant-1-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 1",40," Hur mycket mer kött/fläsk fick en person köpa per vecka tredje kvartalet 1947 jämfört med andra kvartalet 1942?","","D","330 gram/vecka och person","","False","images/2013-ht/kvant-1-38-till-40.png"
+
+
+
+
+
+
+
+"Högskoleprovet HT 2013","kvantitativ 2",1,"Vad är 2/3 av 3/4?","","A","1/2","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",1,"Vad är 2/3 av 3/4?","","B","3/7","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",1,"Vad är 2/3 av 3/4?","","C","5/7","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",1,"Vad är 2/3 av 3/4?","","D","5/12","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",2,"Ekvation med division","images/2013-ht/kvant-2-fråga-2.png","","A","\[\frac{ab}{2}\]","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",2,"Ekvation med division","images/2013-ht/kvant-2-fråga-2.png","","B","ab","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",2,"Ekvation med division","images/2013-ht/kvant-2-fråga-2.png","","C","\[\frac{a}{3}\]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",2,"Ekvation med division","images/2013-ht/kvant-2-fråga-2.png","","D","a","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",3,"Vad är korrekt?","","A","En positiv täljare och en negativ nämnare ger en negativ kvot.","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",3,"Vad är korrekt?","","B","En negativ täljare och en positiv nämnare ger en positiv kvot.","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",3,"Vad är korrekt?","","C","Produkten av ett negativt och ett positivt tal är positiv.","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",3,"Vad är korrekt?","","D","Produkten av två negativa tal är negativ.","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",4,"Hur stor är vinkeln y i triangeln ABC?","images/2013-ht/kvant-2-fråga-4.png","A","\[(30 - x)^\circ\]","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",4,"Hur stor är vinkeln y i triangeln ABC?","images/2013-ht/kvant-2-fråga-4.png","B","\[(60 - x)^\circ\]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",4,"Hur stor är vinkeln y i triangeln ABC?","images/2013-ht/kvant-2-fråga-4.png","C","\[(x - 30)^\circ\]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",4,"Hur stor är vinkeln y i triangeln ABC?","images/2013-ht/kvant-2-fråga-4.png","D","\[(x - 60)^\circ\]","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",5,"En partikel färdas \[1 \cdot 10^{10} \] cm per sekund under \[4 \cdot 10^{-8}\] sekunder. \[ \textbf{Hur många cm har partikeln färdats?} \]","","A","\[4 \cdot 10^{18}\] cm","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",5,"En partikel färdas \[1 \cdot 10^{10} \] cm per sekund under \[4 \cdot 10^{-8}\] sekunder. \[ \textbf{Hur många cm har partikeln färdats?} \]","","B","\[4 \cdot 10^2\] cm","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",5,"En partikel färdas \[1 \cdot 10^{10} \] cm per sekund under \[4 \cdot 10^{-8}\] sekunder. \[ \textbf{Hur många cm har partikeln färdats?} \]","","C","\[4 \cdot 10^{-18}\] cm","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",5,"En partikel färdas \[1 \cdot 10^{10} \] cm per sekund under \[4 \cdot 10^{-8}\] sekunder. \[ \textbf{Hur många cm har partikeln färdats?} \]","","D","\[4 \cdot 10^{-80}\] cm","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",6,"AB = AD = 1 cm. Triangeln BCD är liksidig. \[ \textbf{Vad är omkretsen av fyrhörningen ABCD?} \]","images/2013-ht/kvant-2-fråga-6.png","A","5","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",6,"AB = AD = 1 cm. Triangeln BCD är liksidig. \[ \textbf{Vad är omkretsen av fyrhörningen ABCD?} \]","images/2013-ht/kvant-2-fråga-6.png","B","6","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",6,"AB = AD = 1 cm. Triangeln BCD är liksidig. \[ \textbf{Vad är omkretsen av fyrhörningen ABCD?} \]","images/2013-ht/kvant-2-fråga-6.png","C","\[(2+2 \sqrt{2})\] cm","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",6,"AB = AD = 1 cm. Triangeln BCD är liksidig. \[ \textbf{Vad är omkretsen av fyrhörningen ABCD?} \]","images/2013-ht/kvant-2-fråga-6.png","D","\[(2+3 \sqrt{2})\] cm","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",7,"Vad måste gälla för b om a + b > a – 2b?","","A","b > 0","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",7,"Vad måste gälla för b om a + b > a – 2b?","","B","b < 0","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",7,"Vad måste gälla för b om a + b > a – 2b?","","C","b > a","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",7,"Vad måste gälla för b om a + b > a – 2b?","","D","b < a","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",8,"Vad blir \[(3x^3y^2z)^4?\]","","A","\[12x^7 y^6 z^5\]","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",8,"Vad blir \[(3x^3y^2z)^4?\]","","B","\[12x^{12} y^8 z^4\]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",8,"Vad blir \[(3x^3y^2z)^4?\]","","C","\[81x^7 y^6 z^5\]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",8,"Vad blir \[(3x^3y^2z)^4?\]","","D","\[81^{12} y^8 z^4\]","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",9,"\[ \text{Linjerna} \: y = -x + 7 \: \text{och} \: y = \frac{2}{3}x - \frac{4}{3} \: \text{skär varandra i punkten P} = (x_1,y_1) \]","images/2013-ht/kvant-2-fråga-9.png","A","\[x_1 > 0;y_1 > 0 \] ","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",9,"\[ \text{Linjerna} \: y = -x + 7 \: \text{och} \: y = \frac{2}{3}x - \frac{4}{3} \: \text{skär varandra i punkten P} = (x_1,y_1) \]","images/2013-ht/kvant-2-fråga-9.png","B","\[x_1 > 0;y_1 < 0\]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",9,"\[ \text{Linjerna} \: y = -x + 7 \: \text{och} \: y = \frac{2}{3}x - \frac{4}{3} \: \text{skär varandra i punkten P} = (x_1,y_1) \]","images/2013-ht/kvant-2-fråga-9.png","C","\[x_1 < 0;y_1 > 0\]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",9,"\[ \text{Linjerna} \: y = -x + 7 \: \text{och} \: y = \frac{2}{3}x - \frac{4}{3} \: \text{skär varandra i punkten P} = (x_1,y_1) \]","images/2013-ht/kvant-2-fråga-9.png","D","\[x_1 < 0;y_1 > 0\]","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",10,"Kalle läser en sida på m minuter. \[ \textbf{Hur många sidor läser han på 7 minuter?} \]","","A","7m","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",10,"Kalle läser en sida på m minuter. \[ \textbf{Hur många sidor läser han på 7 minuter?} \]","","B","7+m","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",10,"Kalle läser en sida på m minuter. \[ \textbf{Hur många sidor läser han på 7 minuter?} \]","","C","\[ \frac{7}{m} \]","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",10,"Kalle läser en sida på m minuter. \[ \textbf{Hur många sidor läser han på 7 minuter?} \]","","D","\[ \frac{m}{7} \]","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",11,"Vad är x om \[frac{x}{5} - \frac{x}{10} + \frac{x}{15} - \frac{x}{20} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} \]","","A","-5","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",11,"Vad är x om \[frac{x}{5} - \frac{x}{10} + \frac{x}{15} - \frac{x}{20} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} \]","","B","-1/5","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",11,"Vad är x om \[frac{x}{5} - \frac{x}{10} + \frac{x}{15} - \frac{x}{20} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} \]","","C","1,5","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",11,"Vad är x om \[frac{x}{5} - \frac{x}{10} + \frac{x}{15} - \frac{x}{20} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} \]","","D","5","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",12,"En elev ska väljas slumpmässigt ur klassen. Sannolikheten att en pojke väljs är 2/3 av sannolikheten att en flicka väljs. \[ \textbf{Vad är kvoten mellan antalet pojkar och det totala antalet elever i klassen?} \]","","A","1/3","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",12,"En elev ska väljas slumpmässigt ur klassen. Sannolikheten att en pojke väljs är 2/3 av sannolikheten att en flicka väljs. \[ \textbf{Vad är kvoten mellan antalet pojkar och det totala antalet elever i klassen?} \]","","B","2/5","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",12,"En elev ska väljas slumpmässigt ur klassen. Sannolikheten att en pojke väljs är 2/3 av sannolikheten att en flicka väljs. \[ \textbf{Vad är kvoten mellan antalet pojkar och det totala antalet elever i klassen?} \]","","C","2/3","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",12,"En elev ska väljas slumpmässigt ur klassen. Sannolikheten att en pojke väljs är 2/3 av sannolikheten att en flicka väljs. \[ \textbf{Vad är kvoten mellan antalet pojkar och det totala antalet elever i klassen?} \]","","D","3/5","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",13,"\[ x > 0 \]","images/2013-ht/kvant-2-fråga-13.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",13,"x > 0 ","images/2013-ht/kvant-2-fråga-13.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",13,"x > 0 ","images/2013-ht/kvant-2-fråga-13.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",13,"x > 0 ","images/2013-ht/kvant-2-fråga-13.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",14,"Kvantitativa jämförelser Geometri","images/2013-ht/kvant-2-fråga-14.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",14,"Kvantitativa jämförelser Geometri","images/2013-ht/kvant-2-fråga-14.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",14,"Kvantitativa jämförelser Geometri","images/2013-ht/kvant-2-fråga-14.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",14,"Kvantitativa jämförelser Geometri","images/2013-ht/kvant-2-fråga-14.png","D","informationen är otillräcklig","","False",
+
+"Högskoleprovet HT 2013","kvantitativ 2",15,"Kvantitativa jämförelser Tal och uppfattning","images/2013-ht/kvant-2-fråga-15.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",15,"Kvantitativa jämförelser Tal och uppfattning","images/2013-ht/kvant-2-fråga-15.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",15,"Kvantitativa jämförelser Tal och uppfattning","images/2013-ht/kvant-2-fråga-15.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",15,"Kvantitativa jämförelser Tal och uppfattning","images/2013-ht/kvant-2-fråga-15.png","D","informationen är otillräcklig","","False",
+
+"Högskoleprovet HT 2013","kvantitativ 2",16,"b = a + 1","images/2013-ht/kvant-2-fråga-16.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",16,"b = a + 1","images/2013-ht/kvant-2-fråga-16.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",16,"b = a + 1","images/2013-ht/kvant-2-fråga-16.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",16,"b = a + 1","images/2013-ht/kvant-2-fråga-16.png","D","informationen är otillräcklig","","False",
+
+"Högskoleprovet HT 2013","kvantitativ 2",17,"Cirkelbågen AB, cirkelbågen BC och cirkelbågen AC är halvcirklar.","images/2013-ht/kvant-2-fråga-17.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",17,"Cirkelbågen AB, cirkelbågen BC och cirkelbågen AC är halvcirklar.","images/2013-ht/kvant-2-fråga-17.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",17,"Cirkelbågen AB, cirkelbågen BC och cirkelbågen AC är halvcirklar.","images/2013-ht/kvant-2-fråga-17.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",17,"Cirkelbågen AB, cirkelbågen BC och cirkelbågen AC är halvcirklar.","images/2013-ht/kvant-2-fråga-17.png","D","informationen är otillräcklig","","False",
+
+"Högskoleprovet HT 2013","kvantitativ 2",18,"b > 1 och x > 0","images/2013-ht/kvant-2-fråga-18.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",18,"b > 1 och x > 0","images/2013-ht/kvant-2-fråga-18.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",18,"b > 1 och x > 0","images/2013-ht/kvant-2-fråga-18.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",18,"b > 1 och x > 0","images/2013-ht/kvant-2-fråga-18.png","D","informationen är otillräcklig","","False",
+
+"Högskoleprovet HT 2013","kvantitativ 2",19,"\[ \textbf{x, y, z, w är fyra på varandra följande heltal så att w > z > y > x} \]","images/2013-ht/kvant-2-fråga-19.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",19,"\[ \textbf{x, y, z, w är fyra på varandra följande heltal så att w > z > y > x} \]","images/2013-ht/kvant-2-fråga-19.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",19,"\[ \textbf{x, y, z, w är fyra på varandra följande heltal så att w > z > y > x} \]","images/2013-ht/kvant-2-fråga-19.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",19,"\[ \textbf{x, y, z, w är fyra på varandra följande heltal så att w > z > y > x} \]","images/2013-ht/kvant-2-fråga-19.png","D","informationen är otillräcklig","","False",
+
+"Högskoleprovet HT 2013","kvantitativ 2",20,"\[ \textbf{Ett cykelhjul rullar längs en rät linje utan att glida och på 3 varv rullar hjulet sträckan 18 meter.} \]","images/2013-ht/kvant-2-fråga-20.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",20,"\[ \textbf{Ett cykelhjul rullar längs en rät linje utan att glida och på 3 varv rullar hjulet sträckan 18 meter.} \]","images/2013-ht/kvant-2-fråga-20.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",20,"\[ \textbf{Ett cykelhjul rullar längs en rät linje utan att glida och på 3 varv rullar hjulet sträckan 18 meter.} \]","images/2013-ht/kvant-2-fråga-20.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",20,"\[ \textbf{Ett cykelhjul rullar längs en rät linje utan att glida och på 3 varv rullar hjulet sträckan 18 meter.} \]","images/2013-ht/kvant-2-fråga-20.png","D","informationen är otillräcklig","","False",
+
+"Högskoleprovet HT 2013","kvantitativ 2",21,"Kvantitativa jämförelser ekvationer","images/2013-ht/kvant-2-fråga-21.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",21,"Kvantitativa jämförelser ekvationer","images/2013-ht/kvant-2-fråga-21.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",21,"Kvantitativa jämförelser ekvationer","images/2013-ht/kvant-2-fråga-21.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",21,"Kvantitativa jämförelser ekvationer","images/2013-ht/kvant-2-fråga-21.png","D","informationen är otillräcklig","","False",
+
+"Högskoleprovet HT 2013","kvantitativ 2",22,"\[ \textbf{I ett koordinatsystem utgör punkterna (–1, a), (2, 2) och (2, 4) hörnen i en rätvinklig triangel.} \]","images/2013-ht/kvant-2-fråga-22.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",22,"\[ \textbf{I ett koordinatsystem utgör punkterna (–1, a), (2, 2) och (2, 4) hörnen i en rätvinklig triangel.} \]","images/2013-ht/kvant-2-fråga-22.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",22,"\[ \textbf{I ett koordinatsystem utgör punkterna (–1, a), (2, 2) och (2, 4) hörnen i en rätvinklig triangel.} \]","images/2013-ht/kvant-2-fråga-22.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",22,"\[ \textbf{I ett koordinatsystem utgör punkterna (–1, a), (2, 2) och (2, 4) hörnen i en rätvinklig triangel.} \]","images/2013-ht/kvant-2-fråga-22.png","D","informationen är otillräcklig","","False",
+
+
+"Högskoleprovet HT 2013","kvantitativ 2",23,"En cykelhandlare har fem enfärgade cyklar till salu. Det finns både herr- och damcyklar. Färgen på cyklarna är svart, blå, röd eller grön, och två av cyklarna har samma färg. \[ \textbf Vilken färg har dessa två cyklar? \]","images/2013-ht/kvant-2-fråga-23.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",23,"En cykelhandlare har fem enfärgade cyklar till salu. Det finns både herr- och damcyklar. Färgen på cyklarna är svart, blå, röd eller grön, och två av cyklarna har samma färg. \[ \textbf Vilken färg har dessa två cyklar? \]","images/2013-ht/kvant-2-fråga-23.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",23,"En cykelhandlare har fem enfärgade cyklar till salu. Det finns både herr- och damcyklar. Färgen på cyklarna är svart, blå, röd eller grön, och två av cyklarna har samma färg. \[ \textbf Vilken färg har dessa två cyklar? \]","images/2013-ht/kvant-2-fråga-23.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",23,"En cykelhandlare har fem enfärgade cyklar till salu. Det finns både herr- och damcyklar. Färgen på cyklarna är svart, blå, röd eller grön, och två av cyklarna har samma färg. \[ \textbf Vilken färg har dessa två cyklar? \]","images/2013-ht/kvant-2-fråga-23.png","D","i (1) och (2) var för sig","","False",
+"Högskoleprovet HT 2013","kvantitativ 2",23,"En cykelhandlare har fem enfärgade cyklar till salu. Det finns både herr- och damcyklar. Färgen på cyklarna är svart, blå, röd eller grön, och två av cyklarna har samma färg. \[ \textbf Vilken färg har dessa två cyklar? \]","images/2013-ht/kvant-2-fråga-23.png","E","ej genom de båda påståendena","","False",
+
+"Högskoleprovet HT 2013","kvantitativ 2",24,"Ett museum köpte ett antal nya skulpturer vid ett visst tillfälle. Köpet resulterade i att det totala värdet av museets samtliga skulpturer ökade med 25 procent. \[ \textbf{Hur många nya skulpturer köptes in?} \]","images/2013-ht/kvant-2-fråga-24.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",24,"Ett museum köpte ett antal nya skulpturer vid ett visst tillfälle. Köpet resulterade i att det totala värdet av museets samtliga skulpturer ökade med 25 procent. \[ \textbf{Hur många nya skulpturer köptes in?} \]","images/2013-ht/kvant-2-fråga-24.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",24,"Ett museum köpte ett antal nya skulpturer vid ett visst tillfälle. Köpet resulterade i att det totala värdet av museets samtliga skulpturer ökade med 25 procent. \[ \textbf{Hur många nya skulpturer köptes in?} \]","images/2013-ht/kvant-2-fråga-24.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",24,"Ett museum köpte ett antal nya skulpturer vid ett visst tillfälle. Köpet resulterade i att det totala värdet av museets samtliga skulpturer ökade med 25 procent. \[ \textbf{Hur många nya skulpturer köptes in?} \]","images/2013-ht/kvant-2-fråga-24.png","D","i (1) och (2) var för sig","","False",
+"Högskoleprovet HT 2013","kvantitativ 2",24,"Ett museum köpte ett antal nya skulpturer vid ett visst tillfälle. Köpet resulterade i att det totala värdet av museets samtliga skulpturer ökade med 25 procent. \[ \textbf{Hur många nya skulpturer köptes in?} \]","images/2013-ht/kvant-2-fråga-24.png","E","ej genom de båda påståendena","","False",
+
+"Högskoleprovet HT 2013","kvantitativ 2",25,"24-karats guld innehåller 99,6 viktprocent rent guld. Antag att resterande 0,4 procent är koppar, zink och nickel. \[ \textbf{Hur många gram koppar innehåller en 24-karats guldtacka som väger 1 kg?} \]","images/2013-ht/kvant-2-fråga-25.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",25,"24-karats guld innehåller 99,6 viktprocent rent guld. Antag att resterande 0,4 procent är koppar, zink och nickel. \[ \textbf{Hur många gram koppar innehåller en 24-karats guldtacka som väger 1 kg?} \]","images/2013-ht/kvant-2-fråga-25.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",25,"24-karats guld innehåller 99,6 viktprocent rent guld. Antag att resterande 0,4 procent är koppar, zink och nickel. \[ \textbf{Hur många gram koppar innehåller en 24-karats guldtacka som väger 1 kg?} \]","images/2013-ht/kvant-2-fråga-25.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",25,"24-karats guld innehåller 99,6 viktprocent rent guld. Antag att resterande 0,4 procent är koppar, zink och nickel. \[ \textbf{Hur många gram koppar innehåller en 24-karats guldtacka som väger 1 kg?} \]","images/2013-ht/kvant-2-fråga-25.png","D","i (1) och (2) var för sig","","False",
+"Högskoleprovet HT 2013","kvantitativ 2",25,"24-karats guld innehåller 99,6 viktprocent rent guld. Antag att resterande 0,4 procent är koppar, zink och nickel. \[ \textbf{Hur många gram koppar innehåller en 24-karats guldtacka som väger 1 kg?} \]","images/2013-ht/kvant-2-fråga-25.png","E","ej genom de båda påståendena","","False",
+
+"Högskoleprovet HT 2013","kvantitativ 2",26," Karolina kastar en diskus tre gånger. Hennes första och tredje kast är lika långa. \[ \textbf{Hur långt är hennes tredje kast?} \]","images/2013-ht/kvant-2-fråga-26.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",26," Karolina kastar en diskus tre gånger. Hennes första och tredje kast är lika långa. \[ \textbf{Hur långt är hennes tredje kast?} \]","images/2013-ht/kvant-2-fråga-26.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",26," Karolina kastar en diskus tre gånger. Hennes första och tredje kast är lika långa. \[ \textbf{Hur långt är hennes tredje kast?} \]","images/2013-ht/kvant-2-fråga-26.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",26," Karolina kastar en diskus tre gånger. Hennes första och tredje kast är lika långa. \[ \textbf{Hur långt är hennes tredje kast?} \]","images/2013-ht/kvant-2-fråga-26.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",26," Karolina kastar en diskus tre gånger. Hennes första och tredje kast är lika långa. \[ \textbf{Hur långt är hennes tredje kast?} \]","images/2013-ht/kvant-2-fråga-26.png","E","ej genom de båda påståendena","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",27," I en ask finns enbart röda, gröna och blå pärlor. Maria tar upp en pärla slumpmässigt. \[ \textbf{Hur stor är sannolikheten att denna pärla är röd?} \]","images/2013-ht/kvant-2-fråga-27.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",27," I en ask finns enbart röda, gröna och blå pärlor. Maria tar upp en pärla slumpmässigt. \[ \textbf{Hur stor är sannolikheten att denna pärla är röd?} \]","images/2013-ht/kvant-2-fråga-27.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",27," I en ask finns enbart röda, gröna och blå pärlor. Maria tar upp en pärla slumpmässigt. \[ \textbf{Hur stor är sannolikheten att denna pärla är röd?} \]","images/2013-ht/kvant-2-fråga-27.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",27," I en ask finns enbart röda, gröna och blå pärlor. Maria tar upp en pärla slumpmässigt. \[ \textbf{Hur stor är sannolikheten att denna pärla är röd?} \]","images/2013-ht/kvant-2-fråga-27.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",27," I en ask finns enbart röda, gröna och blå pärlor. Maria tar upp en pärla slumpmässigt. \[ \textbf{Hur stor är sannolikheten att denna pärla är röd?} \]","images/2013-ht/kvant-2-fråga-27.png","E","ej genom de båda påståendena","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",28," A och B planterar sammanlagt 120 träd. Om A och B arbetar samtidigt utan rast tar planteringen 6 timmar. A och B planterar alltid med sina egna konstanta hastigheter. \[ \textbf{Hur lång tid skulle det ta för B att ensam plantera de 120 träden?} \]","images/2013-ht/kvant-2-fråga-28.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2013","kvantitativ 2",28," A och B planterar sammanlagt 120 träd. Om A och B arbetar samtidigt utan rast tar planteringen 6 timmar. A och B planterar alltid med sina egna konstanta hastigheter. \[ \textbf{Hur lång tid skulle det ta för B att ensam plantera de 120 träden?} \]","images/2013-ht/kvant-2-fråga-28.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",28," A och B planterar sammanlagt 120 träd. Om A och B arbetar samtidigt utan rast tar planteringen 6 timmar. A och B planterar alltid med sina egna konstanta hastigheter. \[ \textbf{Hur lång tid skulle det ta för B att ensam plantera de 120 träden?} \]","images/2013-ht/kvant-2-fråga-28.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",28," A och B planterar sammanlagt 120 träd. Om A och B arbetar samtidigt utan rast tar planteringen 6 timmar. A och B planterar alltid med sina egna konstanta hastigheter. \[ \textbf{Hur lång tid skulle det ta för B att ensam plantera de 120 träden?} \]","images/2013-ht/kvant-2-fråga-28.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2013","kvantitativ 2",28," A och B planterar sammanlagt 120 träd. Om A och B arbetar samtidigt utan rast tar planteringen 6 timmar. A och B planterar alltid med sina egna konstanta hastigheter. \[ \textbf{Hur lång tid skulle det ta för B att ensam plantera de 120 träden?} \]","images/2013-ht/kvant-2-fråga-28.png","E","ej genom de båda påståendena","","False",""
+
+"Högskoleprovet HT 2013","kvantitativ 2",29," Vilket år var exportens andel av godshanteringen i svenska hamnar som störst?","","A","1920","","True","images/2013-ht/kvant-2-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 2",29," Vilket år var exportens andel av godshanteringen i svenska hamnar som störst?","","B","1930","","False","images/2013-ht/kvant-2-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 2",29," Vilket år var exportens andel av godshanteringen i svenska hamnar som störst?","","C","1970","","False","images/2013-ht/kvant-2-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 2",29," Vilket år var exportens andel av godshanteringen i svenska hamnar som störst?","","D","1980","","False","images/2013-ht/kvant-2-29-till-31.png"
+
+"Högskoleprovet HT 2013","kvantitativ 2",30," \[ \textbf{Vilken godsgrupp avses?} \]  Under perioden 1920–1960 var antalet ton som hanterades i svenska hamnar i stort sett oförändrat. Hanteringen var som störst 1980.","","A","Malm","","True","images/2013-ht/kvant-2-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 2",30," \[ \textbf{Vilken godsgrupp avses?} \]  Under perioden 1920–1960 var antalet ton som hanterades i svenska hamnar i stort sett oförändrat. Hanteringen var som störst 1980.","","B","Olja","","False","images/2013-ht/kvant-2-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 2",30," \[ \textbf{Vilken godsgrupp avses?} \]  Under perioden 1920–1960 var antalet ton som hanterades i svenska hamnar i stort sett oförändrat. Hanteringen var som störst 1980.","","C","Sten","","False","images/2013-ht/kvant-2-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 2",30," \[ \textbf{Vilken godsgrupp avses?} \]  Under perioden 1920–1960 var antalet ton som hanterades i svenska hamnar i stort sett oförändrat. Hanteringen var som störst 1980.","","D","Skog","","False","images/2013-ht/kvant-2-29-till-31.png"
+
+"Högskoleprovet HT 2013","kvantitativ 2",31," Hur många miljoner ton gods per hamn hanterades i Sverige år 1920 respektive 1995?","","A","0,1 respektive 1,3 miljoner ton","","True","images/2013-ht/kvant-2-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 2",31," Hur många miljoner ton gods per hamn hanterades i Sverige år 1920 respektive 1995?","","B","0,5 respektive 12 miljoner ton","","False","images/2013-ht/kvant-2-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 2",31," Hur många miljoner ton gods per hamn hanterades i Sverige år 1920 respektive 1995?","","C","20 respektive 120 miljoner ton","","False","images/2013-ht/kvant-2-29-till-31.png"
+"Högskoleprovet HT 2013","kvantitativ 2",31," Hur många miljoner ton gods per hamn hanterades i Sverige år 1920 respektive 1995?","","D","20 respektive 250 miljoner ton","","False","images/2013-ht/kvant-2-29-till-31.png"
+
+"Högskoleprovet HT 2013","kvantitativ 2",32," Hur stor andel av kvinnorna i åldersgruppen 20–24 år var gifta år 1900?","","A","1/10","","True","images/2013-ht/kvant-2-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 2",32," Hur stor andel av kvinnorna i åldersgruppen 20–24 år var gifta år 1900?","","B","1/5","","False","images/2013-ht/kvant-2-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 2",32," Hur stor andel av kvinnorna i åldersgruppen 20–24 år var gifta år 1900?","","C","1/4","","False","images/2013-ht/kvant-2-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 2",32," Hur stor andel av kvinnorna i åldersgruppen 20–24 år var gifta år 1900?","","D","1/3","","False","images/2013-ht/kvant-2-32-till-34.png"
+
+"Högskoleprovet HT 2013","kvantitativ 2",33," Hur stor var den procentuella befolkningsökningen i Sverige under nedanstående tidsperioder?","","A","(1900-1950: 27%), (1950-1998: 20%), (1900-1998: 52%)","","True","images/2013-ht/kvant-2-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 2",33," Hur stor var den procentuella befolkningsökningen i Sverige under nedanstående tidsperioder?","","B","(1900-1950: 37%), (1950-1998: 25%), (1900-1998: 62%)","","False","images/2013-ht/kvant-2-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 2",33," Hur stor var den procentuella befolkningsökningen i Sverige under nedanstående tidsperioder?","","C","(1900-1950: 37%), (1950-1998: 25%), (1900-1998: 72%)","","False","images/2013-ht/kvant-2-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 2",33," Hur stor var den procentuella befolkningsökningen i Sverige under nedanstående tidsperioder?","","D","(1900-1950: 73%), (1950-1998: 80%), (1900-1998: 153%)","","False","images/2013-ht/kvant-2-32-till-34.png"
+
+"Högskoleprovet HT 2013","kvantitativ 2",34," Beräkna hur stor andel av 45–49-åringarna som var frånskilda 1950 respektive 1998. \[ \textbf{Hur mycket större var andelen 1998 jämfört med 1950?} \]","","A","14 procentenheter","","True","images/2013-ht/kvant-2-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 2",34," Beräkna hur stor andel av 45–49-åringarna som var frånskilda 1950 respektive 1998. \[ \textbf{Hur mycket större var andelen 1998 jämfört med 1950?} \]","","B","24 procentenheter","","False","images/2013-ht/kvant-2-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 2",34," Beräkna hur stor andel av 45–49-åringarna som var frånskilda 1950 respektive 1998. \[ \textbf{Hur mycket större var andelen 1998 jämfört med 1950?} \]","","C","32 procentenheter","","False","images/2013-ht/kvant-2-32-till-34.png"
+"Högskoleprovet HT 2013","kvantitativ 2",34," Beräkna hur stor andel av 45–49-åringarna som var frånskilda 1950 respektive 1998. \[ \textbf{Hur mycket större var andelen 1998 jämfört med 1950?} \]","","D","40 procentenheter","","False","images/2013-ht/kvant-2-32-till-34.png"
+
+"Högskoleprovet HT 2013","kvantitativ 2",35," Vilken av följande byggnader hade en area på cirka 40 m2 och var byggd av timmer?","","A","Drängstugan","","True","images/2013-ht/kvant-2-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 2",35," Vilken av följande byggnader hade en area på cirka 40 m2 och var byggd av timmer?","","B","Ladugården","","False","images/2013-ht/kvant-2-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 2",35," Vilken av följande byggnader hade en area på cirka 40 m2 och var byggd av timmer?","","C","Vedboden","","False","images/2013-ht/kvant-2-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 2",35," Vilken av följande byggnader hade en area på cirka 40 m2 och var byggd av timmer?","","D","Visthusboden","","False","images/2013-ht/kvant-2-35-till-37.png"
+
+"Högskoleprovet HT 2013","kvantitativ 2",36," Vilket svarsförslag är korrekt avseende Tunsäter?","","A"," Köksväxterna odlades på gårdens norra del.","","True","images/2013-ht/kvant-2-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 2",36," Vilket svarsförslag är korrekt avseende Tunsäter?","","B"," Ladan var byggd 1884.","","False","images/2013-ht/kvant-2-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 2",36," Vilket svarsförslag är korrekt avseende Tunsäter?","","C"," Alla byggnader av timmer var från 1800-talet.","","False","images/2013-ht/kvant-2-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 2",36," Vilket svarsförslag är korrekt avseende Tunsäter?","","D"," Den senast daterade byggnaden var byggd av bräder.","","False","images/2013-ht/kvant-2-35-till-37.png"
+
+"Högskoleprovet HT 2013","kvantitativ 2",37," Hur lång är den beskrivna sträckan?","images/2013-ht/kvant-2-fråga-37.png","A","100 meter","","True","images/2013-ht/kvant-2-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 2",37," Hur lång är den beskrivna sträckan?","images/2013-ht/kvant-2-fråga-37.png","B","140 meter","","False","images/2013-ht/kvant-2-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 2",37," Hur lång är den beskrivna sträckan?","images/2013-ht/kvant-2-fråga-37.png","C","180 meter","","False","images/2013-ht/kvant-2-35-till-37.png"
+"Högskoleprovet HT 2013","kvantitativ 2",37," Hur lång är den beskrivna sträckan?","images/2013-ht/kvant-2-fråga-37.png","D","220 meter","","False","images/2013-ht/kvant-2-35-till-37.png"
+
+"Högskoleprovet HT 2013","kvantitativ 2",38," Vilket år förekom störst respektive minst antal dödsfall inom kategorin Övriga?","","A","2000 respektive 2001","","True","images/2013-ht/kvant-2-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 2",38," Vilket år förekom störst respektive minst antal dödsfall inom kategorin Övriga?","","B","2000 respektive 2002","","False","images/2013-ht/kvant-2-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 2",38," Vilket år förekom störst respektive minst antal dödsfall inom kategorin Övriga?","","C","2002 respektive 2000","","False","images/2013-ht/kvant-2-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 2",38," Vilket år förekom störst respektive minst antal dödsfall inom kategorin Övriga?","","D","2002 respektive 2001","","False","images/2013-ht/kvant-2-38-till-40.png"
+
+"Högskoleprovet HT 2013","kvantitativ 2",39," Hur många människor sammanlagt dog av sjukdomar i andningsorganen under de redovisade åren?","","A","6 500","","True","images/2013-ht/kvant-2-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 2",39," Hur många människor sammanlagt dog av sjukdomar i andningsorganen under de redovisade åren?","","B","9 500","","False","images/2013-ht/kvant-2-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 2",39," Hur många människor sammanlagt dog av sjukdomar i andningsorganen under de redovisade åren?","","C","13 500","","False","images/2013-ht/kvant-2-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 2",39," Hur många människor sammanlagt dog av sjukdomar i andningsorganen under de redovisade åren?","","D","19 500","","False","images/2013-ht/kvant-2-38-till-40.png"
+
+"Högskoleprovet HT 2013","kvantitativ 2",40," Hur många var de kvinnor som dog av sjukdomar i cirkulationsorganen jämfört med de kvinnor som dog av sjukdomar i matsmältningsorganen 2002?","","A","6 gånger så många","","True","images/2013-ht/kvant-2-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 2",40," Hur många var de kvinnor som dog av sjukdomar i cirkulationsorganen jämfört med de kvinnor som dog av sjukdomar i matsmältningsorganen 2002?","","B","10 gånger så många","","False","images/2013-ht/kvant-2-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 2",40," Hur många var de kvinnor som dog av sjukdomar i cirkulationsorganen jämfört med de kvinnor som dog av sjukdomar i matsmältningsorganen 2002?","","C","13 gånger så många","","False","images/2013-ht/kvant-2-38-till-40.png"
+"Högskoleprovet HT 2013","kvantitativ 2",40," Hur många var de kvinnor som dog av sjukdomar i cirkulationsorganen jämfört med de kvinnor som dog av sjukdomar i matsmältningsorganen 2002?","","D","19 gånger så många","","False","images/2013-ht/kvant-2-38-till-40.png"
+
+
+
+
+
+

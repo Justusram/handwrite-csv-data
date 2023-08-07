@@ -1,0 +1,151 @@
+prov_title,quiz_name,question_count,question_text,question_img,choise_header,choise_text,choise_img,correct_answer,questiondescription_img
+"Högskoleprovet HT 2014","kvantitativ 1",1,"Vad är \[ \frac{9 \cdot \frac{1}{10}}{1 - \frac{1}{10}} \]","","A","\[ \frac{1}{10} \]","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",1,"Vad är \[ \frac{9 \cdot \frac{1}{10}}{1 - \frac{1}{10}} \]","","B","\[ \frac{1}{9} \]","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",1,"Vad är \[ \frac{9 \cdot \frac{1}{10}}{1 - \frac{1}{10}} \]","","C","1","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",1,"Vad är \[ \frac{9 \cdot \frac{1}{10}}{1 - \frac{1}{10}} \]","","D","\[ \frac{10}{9}\]","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",2,"I figuren har x, y och z värden så att summan av varje rad är lika stor som summan av varje kolumn respektive varje diagonal. \[ \textbf{Vad är summan av x, y och z?} \]","images/2014-vt/kvant-1-fråga-2.png","A","13","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",2,"I figuren har x, y och z värden så att summan av varje rad är lika stor som summan av varje kolumn respektive varje diagonal. \[ \textbf{Vad är summan av x, y och z?} \]","images/2014-vt/kvant-1-fråga-2.png","B","26","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",2,"I figuren har x, y och z värden så att summan av varje rad är lika stor som summan av varje kolumn respektive varje diagonal. \[ \textbf{Vad är summan av x, y och z?} \]","images/2014-vt/kvant-1-fråga-2.png","C","39","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",2,"I figuren har x, y och z värden så att summan av varje rad är lika stor som summan av varje kolumn respektive varje diagonal. \[ \textbf{Vad är summan av x, y och z?} \]","images/2014-vt/kvant-1-fråga-2.png","D","52","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",3,"Fråga 3, del XYZ","images/2014-vt/kvant-1-fråga-3.png","A","- 4","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",3,"Fråga 3, del XYZ","images/2014-vt/kvant-1-fråga-3.png","B","2","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",3,"Fråga 3, del XYZ","images/2014-vt/kvant-1-fråga-3.png","C","6","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",3,"Fråga 3, del XYZ","images/2014-vt/kvant-1-fråga-3.png","D","8","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",4,"En cirkel med radien y är inskriven i en likbent triangel. \[ \textbf{Vad är arean av det skuggade området i figuren?} \]","images/2014-vt/kvant-1-fråga-4.png","A","\[ 0,5 x^2 - \pi y^2 \]","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",4,"En cirkel med radien y är inskriven i en likbent triangel. \[ \textbf{Vad är arean av det skuggade området i figuren?} \]","images/2014-vt/kvant-1-fråga-4.png","B","\[ 0,5 x^2 + \pi y^2 \]","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",4,"En cirkel med radien y är inskriven i en likbent triangel. \[ \textbf{Vad är arean av det skuggade området i figuren?} \]","images/2014-vt/kvant-1-fråga-4.png","C","\[ 5 x^2 - \pi y^2 \]","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",4,"En cirkel med radien y är inskriven i en likbent triangel. \[ \textbf{Vad är arean av det skuggade området i figuren?} \]","images/2014-vt/kvant-1-fråga-4.png","D","\[ 5 x^2 + \pi y^2 \]","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",5,"Vad är \[ (10 \sqrt 5)^2 \]","","A","50","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",5,"Vad är \[ (10 \sqrt 5)^2 \]","","B","250","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",5,"Vad är \[ (10 \sqrt 5)^2 \]","","C","500","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",5,"Vad är \[ (10 \sqrt 5)^2 \]","","D","2500","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",6,"Vilket uttryck har samma värde som \[ \frac{4 x^5 + 8x}{2x} \] för alla x > 0","","A","\[ 2 x^3 + 4x \]","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",6,"Vilket uttryck har samma värde som \[ \frac{4 x^5 + 8x}{2x} \] för alla x > 0","","B","\[ 2 x^4 + 4x \]","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",6,"Vilket uttryck har samma värde som \[ \frac{4 x^5 + 8x}{2x} \] för alla x > 0","","C","\[ 2 x^3 + 4 \]","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",6,"Vilket uttryck har samma värde som \[ \frac{4 x^5 + 8x}{2x} \] för alla x > 0","","D","\[ 2 x^4 + 4 \]","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",7,"Vad är x om - (-10+2x) = 2x+4?","","A","- 3/2","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",7,"Vad är x om - (-10+2x) = 2x+4?","","B","- 7/2","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",7,"Vad är x om - (-10+2x) = 2x+4?","","C","7/2","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",7,"Vad är x om - (-10+2x) = 2x+4?","","D","3/2","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",8,"Vad blir resten då man dividerar 897 med 7?","","A","0","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",8,"Vad blir resten då man dividerar 897 med 7?","","B","1","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",8,"Vad blir resten då man dividerar 897 med 7?","","C","3","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",8,"Vad blir resten då man dividerar 897 med 7?","","D","6","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",9,"\[ 81^ \frac{1}{m} = 9^n \]","images/2014-vt/kvant-1-fråga-9.png","A","1/2","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",9,"\[ 81^ \frac{1}{m} = 9^n \]","images/2014-vt/kvant-1-fråga-9.png","B","2","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",9,"\[ 81^ \frac{1}{m} = 9^n \]","images/2014-vt/kvant-1-fråga-9.png","C","3","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",9,"\[ 81^ \frac{1}{m} = 9^n \]","images/2014-vt/kvant-1-fråga-9.png","D","6","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",10,"I kvadraten ABCD är den liksidiga triangeln ABE inritad.\[ \textbf{Vad är vinkeln CED?} \]","images/2014-vt/kvant-1-fråga-10.png","A","1/2","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",10,"I kvadraten ABCD är den liksidiga triangeln ABE inritad.\[ \textbf{Vad är vinkeln CED?} \]","images/2014-vt/kvant-1-fråga-10.png","B","2","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",10,"I kvadraten ABCD är den liksidiga triangeln ABE inritad.\[ \textbf{Vad är vinkeln CED?} \]","images/2014-vt/kvant-1-fråga-10.png","C","3","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",10,"I kvadraten ABCD är den liksidiga triangeln ABE inritad.\[ \textbf{Vad är vinkeln CED?} \]","images/2014-vt/kvant-1-fråga-10.png","D","6","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",11,"Om medianen av åtta på varandra följande heltal är –1,5 vad är då det minsta av talen?","","A","-6","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",11,"Om medianen av åtta på varandra följande heltal är –1,5 vad är då det minsta av talen?","","B","-5","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",11,"Om medianen av åtta på varandra följande heltal är –1,5 vad är då det minsta av talen?","","C","-4","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",11,"Om medianen av åtta på varandra följande heltal är –1,5 vad är då det minsta av talen?","","D","-3","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",12,"Fråga 12, del XYZ","images/2014-vt/kvant-1-fråga-12.png","A","- 2 \[ \leq \] x < - 1","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",12,"Fråga 12, del XYZ","images/2014-vt/kvant-1-fråga-12.png","B","- 1 \[ \leq \] x < 0","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",12,"Fråga 12, del XYZ","images/2014-vt/kvant-1-fråga-12.png","C","0 < x < 1","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",12,"Fråga 12, del XYZ","images/2014-vt/kvant-1-fråga-12.png","D","1 \[ \leq \] x < 2","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",13,"På ett bord finns två bollar, en röd och en vit. Det finns även sex lådor som är placerade i rad.","images/2014-vt/kvant-1-fråga-13.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",13,"På ett bord finns två bollar, en röd och en vit. Det finns även sex lådor som är placerade i rad.","images/2014-vt/kvant-1-fråga-13.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",13,"På ett bord finns två bollar, en röd och en vit. Det finns även sex lådor som är placerade i rad.","images/2014-vt/kvant-1-fråga-13.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",13,"På ett bord finns två bollar, en röd och en vit. Det finns även sex lådor som är placerade i rad.","images/2014-vt/kvant-1-fråga-13.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",14,"kvantitativ jämförelse koordinater","images/2014-vt/kvant-1-fråga-14.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",14,"kvantitativ jämförelse koordinater","images/2014-vt/kvant-1-fråga-14.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",14,"kvantitativ jämförelse koordinater","images/2014-vt/kvant-1-fråga-14.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",14,"kvantitativ jämförelse koordinater","images/2014-vt/kvant-1-fråga-14.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",15,"Två cirklar med olika stora radier skär varandra i två punkter.","images/2014-vt/kvant-1-fråga-15.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",15,"Två cirklar med olika stora radier skär varandra i två punkter.","images/2014-vt/kvant-1-fråga-15.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",15,"Två cirklar med olika stora radier skär varandra i två punkter.","images/2014-vt/kvant-1-fråga-15.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",15,"Två cirklar med olika stora radier skär varandra i två punkter.","images/2014-vt/kvant-1-fråga-15.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",16,"kvantitativ jämförelse potenser","images/2014-vt/kvant-1-fråga-16.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",16,"kvantitativ jämförelse potenser","images/2014-vt/kvant-1-fråga-16.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",16,"kvantitativ jämförelse potenser","images/2014-vt/kvant-1-fråga-16.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",16,"kvantitativ jämförelse potenser","images/2014-vt/kvant-1-fråga-16.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",17,"En mätserie är: 5, 1, 6, 5, 8","images/2014-vt/kvant-1-fråga-17.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",17,"En mätserie är: 5, 1, 6, 5, 8","images/2014-vt/kvant-1-fråga-17.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",17,"En mätserie är: 5, 1, 6, 5, 8","images/2014-vt/kvant-1-fråga-17.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",17,"En mätserie är: 5, 1, 6, 5, 8","images/2014-vt/kvant-1-fråga-17.png","D","informationen är otillräcklig","","False",""
+
+
+"Högskoleprovet HT 2014","kvantitativ 1",18,"x > 0 och y > 0","images/2014-vt/kvant-1-fråga-18.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",18,"x > 0 och y > 0","images/2014-vt/kvant-1-fråga-18.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",18,"x > 0 och y > 0","images/2014-vt/kvant-1-fråga-18.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",18,"x > 0 och y > 0","images/2014-vt/kvant-1-fråga-18.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",19,"x = 3y – 3","images/2014-vt/kvant-1-fråga-19.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",19,"x = 3y – 3","images/2014-vt/kvant-1-fråga-19.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",19,"x = 3y – 3","images/2014-vt/kvant-1-fråga-19.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",19,"x = 3y – 3","images/2014-vt/kvant-1-fråga-19.png","D","informationen är otillräcklig","","False",""
+
+
+"Högskoleprovet HT 2014","kvantitativ 1",20,"\[x > 1\]","images/2014-vt/kvant-1-fråga-20.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",20,"\[x > 1\]","images/2014-vt/kvant-1-fråga-20.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",20,"\[x > 1\]","images/2014-vt/kvant-1-fråga-20.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",20,"\[x > 1\]","images/2014-vt/kvant-1-fråga-20.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",21,"x och y är negativa tal så att x = 2y.","images/2014-vt/kvant-1-fråga-21.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",21,"x och y är negativa tal så att x = 2y.","images/2014-vt/kvant-1-fråga-21.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",21,"x och y är negativa tal så att x = 2y.","images/2014-vt/kvant-1-fråga-21.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",21,"x och y är negativa tal så att x = 2y.","images/2014-vt/kvant-1-fråga-21.png","D","informationen är otillräcklig","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",22,"Hörnen till tre kvadrater av olika storlek sammanfaller så att kvadraterna avgränsar ett område i form av en rätvinklig triangel. Arean av den största kvadraten är 3 721 m2 och arean av den minsta kvadraten är 121 m2.","images/2014-vt/kvant-1-fråga-22.png","A","I är större än II","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",22,"Hörnen till tre kvadrater av olika storlek sammanfaller så att kvadraterna avgränsar ett område i form av en rätvinklig triangel. Arean av den största kvadraten är 3 721 m2 och arean av den minsta kvadraten är 121 m2.","images/2014-vt/kvant-1-fråga-22.png","B","II är större än I","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",22,"Hörnen till tre kvadrater av olika storlek sammanfaller så att kvadraterna avgränsar ett område i form av en rätvinklig triangel. Arean av den största kvadraten är 3 721 m2 och arean av den minsta kvadraten är 121 m2.","images/2014-vt/kvant-1-fråga-22.png","C","I är lika med II","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",22,"Hörnen till tre kvadrater av olika storlek sammanfaller så att kvadraterna avgränsar ett område i form av en rätvinklig triangel. Arean av den största kvadraten är 3 721 m2 och arean av den minsta kvadraten är 121 m2.","images/2014-vt/kvant-1-fråga-22.png","D","informationen är otillräcklig","","False",""
+
+
+"Högskoleprovet HT 2014","kvantitativ 1",23,"Norden består av länderna Danmark, Finland, Island, Norge och Sverige. \[ \textbf{Vilket nordiskt land konsumerade minst respektive mest elektricitet år 2008?} \]","images/2014-vt/kvant-1-fråga-23.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",23,"Norden består av länderna Danmark, Finland, Island, Norge och Sverige. \[ \textbf{Vilket nordiskt land konsumerade minst respektive mest elektricitet år 2008?} \]","images/2014-vt/kvant-1-fråga-23.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",23,"Norden består av länderna Danmark, Finland, Island, Norge och Sverige. \[ \textbf{Vilket nordiskt land konsumerade minst respektive mest elektricitet år 2008?} \]","images/2014-vt/kvant-1-fråga-23.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",23,"Norden består av länderna Danmark, Finland, Island, Norge och Sverige. \[ \textbf{Vilket nordiskt land konsumerade minst respektive mest elektricitet år 2008?} \]","images/2014-vt/kvant-1-fråga-23.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",23,"Norden består av länderna Danmark, Finland, Island, Norge och Sverige. \[ \textbf{Vilket nordiskt land konsumerade minst respektive mest elektricitet år 2008?} \]","images/2014-vt/kvant-1-fråga-23.png","E","ej genom de båda påståendena","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",24,"Olle stickar tre identiska tröjor med likadana garnnystan. Tröjorna väger tillsammans 1 350 gram. \[ \textbf{Vad väger ett garnnystan?} \]","images/2014-vt/kvant-1-fråga-24.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",24,"Olle stickar tre identiska tröjor med likadana garnnystan. Tröjorna väger tillsammans 1 350 gram. \[ \textbf{Vad väger ett garnnystan?} \]","images/2014-vt/kvant-1-fråga-24.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",24,"Olle stickar tre identiska tröjor med likadana garnnystan. Tröjorna väger tillsammans 1 350 gram. \[ \textbf{Vad väger ett garnnystan?} \]","images/2014-vt/kvant-1-fråga-24.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",24,"Olle stickar tre identiska tröjor med likadana garnnystan. Tröjorna väger tillsammans 1 350 gram. \[ \textbf{Vad väger ett garnnystan?} \]","images/2014-vt/kvant-1-fråga-24.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",24,"Olle stickar tre identiska tröjor med likadana garnnystan. Tröjorna väger tillsammans 1 350 gram. \[ \textbf{Vad väger ett garnnystan?} \]","images/2014-vt/kvant-1-fråga-24.png","E","ej genom de båda påståendena","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",25,"I en biografsalong är sittplatserna placerade i parallella rader och det är lika många sittplatser i varje rad.\[ \textbf{Hur många sittplatser finns det i varje rad?} \]","images/2014-vt/kvant-1-fråga-25.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",25,"I en biografsalong är sittplatserna placerade i parallella rader och det är lika många sittplatser i varje rad.\[ \textbf{Hur många sittplatser finns det i varje rad?} \]","images/2014-vt/kvant-1-fråga-25.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",25,"I en biografsalong är sittplatserna placerade i parallella rader och det är lika många sittplatser i varje rad.\[ \textbf{Hur många sittplatser finns det i varje rad?} \]","images/2014-vt/kvant-1-fråga-25.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",25,"I en biografsalong är sittplatserna placerade i parallella rader och det är lika många sittplatser i varje rad.\[ \textbf{Hur många sittplatser finns det i varje rad?} \]","images/2014-vt/kvant-1-fråga-25.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",25,"I en biografsalong är sittplatserna placerade i parallella rader och det är lika många sittplatser i varje rad.\[ \textbf{Hur många sittplatser finns det i varje rad?} \]","images/2014-vt/kvant-1-fråga-25.png","E","ej genom de båda påståendena","","False",""
+
+
+"Högskoleprovet HT 2014","kvantitativ 1",26,"Bland talen 21, 24, 27, 30, 36, 45 väljs ett ut, vilket?","images/2014-vt/kvant-1-fråga-26.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",26,"Bland talen 21, 24, 27, 30, 36, 45 väljs ett ut, vilket?","images/2014-vt/kvant-1-fråga-26.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",26,"Bland talen 21, 24, 27, 30, 36, 45 väljs ett ut, vilket?","images/2014-vt/kvant-1-fråga-26.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",26,"Bland talen 21, 24, 27, 30, 36, 45 väljs ett ut, vilket?","images/2014-vt/kvant-1-fråga-26.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",26,"Bland talen 21, 24, 27, 30, 36, 45 väljs ett ut, vilket?","images/2014-vt/kvant-1-fråga-26.png","E","ej genom de båda påståendena","","False",""
+
+"Högskoleprovet HT 2014","kvantitativ 1",27,"I ett cykelställ står både damcyklar och herrcyklar med och utan sadelskydd. Lika många herrcyklar som damcyklar har sadelskydd. \[ \textbf{Hur många damcyklar är utan sadelskydd?} \]","images/2014-vt/kvant-1-fråga-27.png","A","i (1) men ej i (2)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",27,"I ett cykelställ står både damcyklar och herrcyklar med och utan sadelskydd. Lika många herrcyklar som damcyklar har sadelskydd. \[ \textbf{Hur många damcyklar är utan sadelskydd?} \]","images/2014-vt/kvant-1-fråga-27.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",27,"I ett cykelställ står både damcyklar och herrcyklar med och utan sadelskydd. Lika många herrcyklar som damcyklar har sadelskydd. \[ \textbf{Hur många damcyklar är utan sadelskydd?} \]","images/2014-vt/kvant-1-fråga-27.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",27,"I ett cykelställ står både damcyklar och herrcyklar med och utan sadelskydd. Lika många herrcyklar som damcyklar har sadelskydd. \[ \textbf{Hur många damcyklar är utan sadelskydd?} \]","images/2014-vt/kvant-1-fråga-27.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",27,"I ett cykelställ står både damcyklar och herrcyklar med och utan sadelskydd. Lika många herrcyklar som damcyklar har sadelskydd. \[ \textbf{Hur många damcyklar är utan sadelskydd?} \]","images/2014-vt/kvant-1-fråga-27.png","E","ej genom de båda påståendena","","False",""
+
+
+"Högskoleprovet HT 2014","kvantitativ 1",28,"a, b, c, d och e är olika heltal större än 0. a + b + c + d = 20. a + c + e = 23. \[ \textbf{Vad är e?} \]","images/2014-vt/kvant-1-fråga-28.png","A","i (1) men ej i (2)","","True",""
+"Högskoleprovet HT 2014","kvantitativ 1",28,"a, b, c, d och e är olika heltal större än 0. a + b + c + d = 20. a + c + e = 23. \[ \textbf{Vad är e?} \]","images/2014-vt/kvant-1-fråga-28.png","B","i (2) men ej i (1)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",28,"a, b, c, d och e är olika heltal större än 0. a + b + c + d = 20. a + c + e = 23. \[ \textbf{Vad är e?} \]","images/2014-vt/kvant-1-fråga-28.png","C","i (1) tillsammans med (2)","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",28,"a, b, c, d och e är olika heltal större än 0. a + b + c + d = 20. a + c + e = 23. \[ \textbf{Vad är e?} \]","images/2014-vt/kvant-1-fråga-28.png","D","i (1) och (2) var för sig","","False",""
+"Högskoleprovet HT 2014","kvantitativ 1",28,"a, b, c, d och e är olika heltal större än 0. a + b + c + d = 20. a + c + e = 23. \[ \textbf{Vad är e?} \]","images/2014-vt/kvant-1-fråga-28.png","E","ej genom de båda påståendena","","False",""
